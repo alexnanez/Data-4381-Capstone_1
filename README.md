@@ -58,4 +58,4 @@ the Store Sales - Time Series Forecasting Kaggle challenge ([https://www.kaggle.
 
 ### Data
 
-* You can download the data at (https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=sample_submission.csv)
+* You can download the data at (https://www.kaggle.com/competitions/ieee-fraud-detection/data)
